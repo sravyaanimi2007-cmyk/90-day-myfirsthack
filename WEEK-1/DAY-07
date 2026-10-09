@@ -1,0 +1,16 @@
+# Day 7 of 90 — My First Hack
+
+One week in. Looking back at where I started, three things stand out:
+
+### 1. Where I started
+Before this week, cybersecurity felt like a huge field where I knew a few terms but didn't really know how everything connected. I had heard about networking, DNS, firewalls, malware and encryption, but I mostly understood them individually rather than thinking like someone investigating a real security problem.
+
+### 2. A moment that clicked
+One of my biggest “click” moments was understanding how a website request actually travels — from the browser and DNS, through TCP and TLS, to the HTTP request and finally the server response. Running commands like `nslookup`, `tracert` and `netstat` on my own machine made cybersecurity feel much more real than simply reading about the concepts.
+
+### 3. A new capability
+Seven days ago, I couldn't confidently investigate what was happening on my own network. Now I can use tools like `nslookup`, `tracert` and `netstat`, understand private vs. public IPs, explain NAT and DNS resolution, and start questioning suspicious processes and network connections instead of simply assuming they are safe or malicious.
+
+**83 days left.**
+
+#myfirsthack #cybersecurity #90daychallenge #learninginpublic
