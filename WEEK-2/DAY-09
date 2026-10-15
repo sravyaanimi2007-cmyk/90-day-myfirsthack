@@ -1,0 +1,39 @@
+# Phishing Awareness & Detection — Task 02
+
+## Objective
+Understand common phishing techniques, practise identifying suspicious messages, and build safer habits when handling emails and messages.
+
+## Key Concepts Learned
+
+### Three Psychological Triggers
+- **Urgency:** Pressuring someone to act immediately.
+- **Authority:** Impersonating a trusted person or organisation.
+- **Curiosity:** Tempting someone to click or open something unexpected.
+
+**Decision fatigue:** When people are tired or overwhelmed, they may be more likely to overlook warning signs.
+
+## Five Anti-Phishing Habits
+1. Check link destinations before clicking.
+2. Open websites directly instead of logging in through email links.
+3. Enable two-factor authentication (2FA) on important accounts.
+4. Treat urgent requests as a reason to slow down and verify.
+5. Confirm suspicious requests through a separate trusted communication channel.
+
+## Task 02 — Google Phishing Quiz
+
+- **Score recorded:** 8/10
+- **Unexpected result:** I suspected a delivery message was phishing, but the quiz marked it as legitimate. The message and its displayed link appeared to match.
+- **Additional lesson:** Pay attention to OTP messages and their timing, especially when I have not requested a login or verification code.
+- **Retake planned:** Yes — I want to retry the quiz after practising the warning signs I learned.
+
+## Important Security Takeaways
+
+- A professional-looking message is not automatically trustworthy.
+- Matching displayed link text and destination is useful, but it does not guarantee that a link is safe.
+- Never share an OTP with another person or enter it on an untrusted website.
+- If an unexpected OTP arrives, do not approve or share it. Check the account through its official app or website.
+- Verify suspicious requests independently before taking action.
+
+## Conclusion
+
+This task taught me that phishing defence is not just about spotting suspicious grammar or links. It also requires slowing down, verifying the sender and destination, and following consistent security habits even when a message looks genuine.
