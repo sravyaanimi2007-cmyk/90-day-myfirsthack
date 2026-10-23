@@ -1,0 +1,33 @@
+# Day 11 of 90 — Looking Under the Hood of a Website
+
+Task 01: View Page Source
+
+- **Website:** Cisco
+- **Script references:** Approximately 10–11
+- **Third-party companies identified:** None confirmed
+
+ Observation
+
+I explored the page source of the Cisco website and noticed approximately 10–11 script references. I couldn't confidently identify any third-party companies from my initial inspection. This helped me understand that webpages contain code and resources beyond the visible interface.
+
+##sk 02: Chrome DevTools — Network Inspection
+
+- Website: Cisco
+- Total network requests: 23
+- Longest request:182 KB
+- Third-party domain:`google.svg`
+
+### Observation
+
+I used the Network tab in Chrome DevTools to inspect the resources requested by the Cisco webpage. I observed 23 requests and identified a script file of 182 KB, along with a resource named `google.svg`.
+
+I learned that a webpage loads multiple resources, and the Network tab helps investigate their types, sizes, timings, and origins.
+
+## Key Learning
+
+- View Page Source shows the original HTML source.
+- Elements shows the live page structure.
+- Network shows requests made by the browser.
+- A resource name alone does not establish whether it comes from a third-party domain or whether it is suspicious.
+
+**Status:** Initial inspection completed; longest-request timing and third-party domain verification remain to be checked.
