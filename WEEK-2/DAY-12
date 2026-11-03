@@ -1,0 +1,13 @@
+Day 12 of 90 with @MyFirstHack.
+
+I've looked at a padlock in my browser thousands of times. Today was the first time I actually opened one up.
+
+What surprised me most was that a certificate can have a valid digital signature and still be fraudulent — browsers can trust the wrong identity if a Certificate Authority is compromised.
+
+The padlock proves the connection is encrypted. It does not prove the site is who you think it is, and it does not prove the site is safe.
+
+The DigiNotar incident taught me that even the systems designed to establish trust can become a point of failure.
+
+Two weeks in. Starting to see how the layers of the web actually fit together.
+
+78 days left.
